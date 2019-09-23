@@ -1,0 +1,9 @@
+.DS_STORE
+.ipynb_checkpoints
+*.pdf
+__pycache__
+Tensorflow*
+notebooks
+hktv
+data
+final-project-example
