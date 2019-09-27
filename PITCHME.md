@@ -1,5 +1,5 @@
 @snap[text-08]
-# Introduction
+# Your Title Goes Here
 @snapend
 
 ---?color=linear-gradient(270deg, #252525 60%, white 40%)
@@ -7,98 +7,97 @@
 
 @snap[north-west text-center]
 @img[span-60](assets/img/me.png)
-@size[0.8em](Syahrul B Hamdani)
+@size[0.8em](Your Name Here)
 
 @size[0.6em](Find me on)
-<a href="https://twitter.com/sbhamdani">@fab[twitter fa-xs](@size[0.7em](sbhamdani))</a>
-<a href="https://github.com/syahrulhamdani">@fab[github fa-xs](@size[0.7em](syahrulhamdani))</a>
+<a href="https://twitter.com/sbhamdani">@fab[twitter fa-xs](@size[0.7em](yourusernae))</a>
+<a href="https://github.com/syahrulhamdani">@fab[github fa-xs](@size[0.7em](yourusername))</a>
 @snapend
 
 @snap[east span-45 font-montserrat text-06 text-left text-white]
-Hi all, I'm Dani.
+Hi all, I'm who.
 
-Currently I'm working at Kurio as a **Data Science Engineer**.
-
-I don't have any formal programming background, but I do have a background in **Math** and **Computational Science**.
+Your introduction goes here. What you're doing, where you live, tell your background a little.
 @snapend
 
 ---?color=black
-@title[course overview]
+@title[Section 1]
 
 @snap[north-west]
-## Overview
+## Section Title 1
 @snapend
 
 @snap[west]
 @ol[]
-1. Python Programming
-2. Data Analysis
-3. Machine Learning
-4. Final Project
+1. Review on Today's Agenda
+2. What else?
+3. What else? (2)
+4. Final thought
 @olend
 @snapend
 
 +++?color=black
-@title[Python programming]
+@title[Subsection 1]
 
-### Python Programming
+### Subsection Title 1
 
 @ol[]
-1. Preparation and Getting Started
-2. Data Structures in Python
-3. Control Flow
-4. Modularity in Python
-5. Python Development Environment
+1. Appellat quid positis cerno peregit semper modo
+2. Similisque missus humum
+3. Nemo salire hostes aequora adflat
+4. Agamemnona nullus intonat exclamant aut tamen
+5. Lacusque adest et quae tenui regis Granico
 @olend
 
 +++?color=black
-@title[Data analysis]
+@title[Subsection 2]
 
-### Data Analysis
+### Subsection Title 2
 
 @ol[]
-1. Getting Started with `Numpy`
-2. Getting Started with `Pandas`
-3. Basic Visualization using `Matplotlib`
-4. Simple Data Analysis Project
+1. Ambo quae
+2. At procul canebat plangorem respiceret tamen arduus
+3. Frigus Regi
+4. Et eras
 @olend
 
 +++?color=black
-@title[Machine Learning]
+@title[Subsection 3]
 
-### Machine Learning
+### Subsection Title 3
 
 @ol[]
-1. Introduction to Machine Learning
-2. Getting Started with `scikit-learn`
-3. Introduction to Deep Learning
-4. Getting Started with `tensorflow`
+1. Ambo quae
+2. At procul canebat plangorem respiceret tamen arduus
+3. Frigus Regi
+4. Et eras
 @olend
 
 +++?color=black
-@title[Training and Final Project]
+@title[Subsection 4]
 
-### Final Project
+### Subsection Title 4
 
 @ol[]
-1. Training A Model
-2. Measuring Model Stability
-3. Intermediate Visualization using `Seaborn`
-4. Final Project Presentation
+1. Ambo quae
+2. At procul canebat plangorem respiceret tamen arduus
+3. Frigus Regi
+4. Et eras
 @olend
 
 ---
-@title[Preparation]
+@title[Section 2]
 
 @snap[north]
-## Preparation
+## Section Title 2
 @snapend
 
 @snap[midpoint text-08 span-60 text-center]
-Download **Anaconda** [here](https://www.anaconda.com/distribution/)
+Ira purpura perfectaque variasque demittit viribus ponti
 
-Then, follow the installation instruction based on your OS [here](https://docs.anaconda.com/anaconda/install/)
+Sic et et Ulixes corpora nos nervosus
 @snapend
+
 
 
 
