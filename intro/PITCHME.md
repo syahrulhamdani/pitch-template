@@ -78,7 +78,7 @@ I don't have any formal programming background, but I do have a background in **
 +++?color=black
 @title[Training and Final Project]
 
-### Final Project
+### Into The Model
 
 @ol[]
 1. Training A Model
@@ -99,6 +99,3 @@ Download **Anaconda** [here](https://www.anaconda.com/distribution/)
 
 Then, follow the installation instruction based on your OS [here](https://docs.anaconda.com/anaconda/install/)
 @snapend
-
-
-
