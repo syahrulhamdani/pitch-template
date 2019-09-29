@@ -16,7 +16,7 @@ If you're on Windows, you'll need to run a few commands to run **Python** and **
 @snapend
 
 @snap[west]
-@box[bg-blue](Go to your `home` directory)
+@box[bg-blue span-35](Go to your `home` directory)
 @snapend
 
 @snap[east]
@@ -31,7 +31,7 @@ If you're on Windows, you'll need to run a few commands to run **Python** and **
 @snapend
 
 @snap[west]
-@box[bg-blue](Get the path your to home directory)
+@box[bg-blue span-35](Get the path your to home directory)
 @snapend
 
 @snap[east]
@@ -46,7 +46,7 @@ If you're on Windows, you'll need to run a few commands to run **Python** and **
 @snapend
 
 @snap[west]
-@box[bg-blue](Get the path to your Anaconda installation, by typing `ls`)
+@box[bg-blue span-35](Get the path to your Anaconda installation, by typing `ls`)
 @snapend
 
 +++?color=black
@@ -57,7 +57,7 @@ If you're on Windows, you'll need to run a few commands to run **Python** and **
 @snapend
 
 @snap[west text-center]
-@box[bg-blue](Add Python & Anaconda to PATH in `.bashrc`)
+@box[bg-blue span-35](Add Python & Anaconda to PATH in `.bashrc`)
 Replace `[YOUR PATH]` with your PATH, say `/c/Users/Juno/Anaconda3`.
 ```bash
 echo 'export PATH="$PATH:[YOUR_PATH]:[YOUR_PATH]/Scripts"' >> .bashrc
@@ -76,7 +76,7 @@ echo 'export PATH="$PATH:[YOUR_PATH]:[YOUR_PATH]/Scripts"' >> .bashrc
 @snapend
 
 @snap[west text-center]
-@box[bg-blue](Add alias for Python in `.bashrc` file)
+@box[bg-blue span-35](Add alias for Python in `.bashrc` file)
 Using this command to tell Git Bash where to find Python executable file.
 ```bash
 echo 'alias python="winpty python.exe"' >> .bashrc
@@ -95,7 +95,7 @@ echo 'alias python="winpty python.exe"' >> .bashrc
 @snapend
 
 @snap[west text-center]
-@box[bg-blue](Execute commands from `.bashrc`)
+@box[bg-blue span-35](Execute commands from `.bashrc`)
 Run the following line to execute the file.
 ```bash
 source .bashrc
@@ -114,7 +114,7 @@ source .bashrc
 @snapend
 
 @snap[west text-center]
-@box[bg-blue](Test Run)
+@box[bg-blue span-35](Test Run)
 Run these commands to make sure `conda`, `python`, and the Python interpreter can be accessed.
 @snapend
 
