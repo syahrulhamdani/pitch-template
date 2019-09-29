@@ -20,7 +20,7 @@ If you're on Windows, you'll need to run a few commands to run **Python** and **
 @snapend
 
 @snap[east]
-![cd](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfb95f_step1-cd/step1-cd.png)
+@img[span-50](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfb95f_step1-cd/step1-cd.png)
 @snapend
 
 +++?color=black
@@ -35,7 +35,7 @@ If you're on Windows, you'll need to run a few commands to run **Python** and **
 @snapend
 
 @snap[east]
-![pwd](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfb984_step2-pwd/step2-pwd.png)
+@img[span-50](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfb984_step2-pwd/step2-pwd.png)
 @snapend
 
 +++?color=black
@@ -65,7 +65,7 @@ echo 'export PATH="$PATH:[YOUR_PATH]:[YOUR_PATH]/Scripts"' >> .bashrc
 @snapend
 
 @snap[east]
-![pwd](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfba33_step3-path/step3-path.png)
+@img[span-50](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfba33_step3-path/step3-path.png)
 @snapend
 
 +++?color=black
@@ -84,7 +84,7 @@ echo 'alias python="winpty python.exe"' >> .bashrc
 @snapend
 
 @snap[east]
-![pwd](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfba70_step4-alias/step4-alias.png)
+@img[span-50](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfba70_step4-alias/step4-alias.png)
 @snapend
 
 +++?color=black
@@ -103,7 +103,7 @@ source .bashrc
 @snapend
 
 @snap[east]
-![pwd](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfbaaf_step5-source/step5-source.png)
+@img[span-50](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfbaaf_step5-source/step5-source.png)
 @snapend
 
 +++?color=black
@@ -119,6 +119,6 @@ Run these commands to make sure `conda`, `python`, and the Python interpreter ca
 @snapend
 
 @snap[east]
-![pwd](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfbb3f_step6-testrun/step6-testrun.png)
+@img[span-50](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfbb3f_step6-testrun/step6-testrun.png)
 Enter `exit()` to leave the python interpreter after the last step above.
 @snapend
