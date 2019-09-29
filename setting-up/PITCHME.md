@@ -44,7 +44,7 @@
 ### Command Line
 @snapend
 
-@snap[west span-30 text-05]
+@snap[west span-45 text-05]
 It's recommended to use a **Unix** command line, for windows, one of it is **Git Bash**.
 
 Anaconda provide an **anaconda prompt** that can be used too, but git bash is more convinient.
