@@ -23,11 +23,11 @@
 
 ## Python Installation
 
-+++
-@title[Use Command Line]
+---
+@title[Disclaimer]
 
 @snap[north-west]
-### Disclaimer
+## Disclaimer
 @snapend
 
 @snap[west]
@@ -38,7 +38,23 @@
 @olend
 
 +++
-@title[Managin Environment using Anaconda]
+@title[Command Line]
+
+@snap[east text-08]
+### Command Line
+@snapend
+
+@snap[west text-06]
+It's recommended to use a **Unix** command line, for windows, one of it is **Git Bash**.
+
+Anaconda provide an **anaconda prompt** that can be used too, but git bash is more convinient.
+
+For non-windows, you can use your native termial, and directly check your `python` version by typing `python --version`
+For non-windows, you can use your native termial, and directly check your `python` version by typing `python --version`
+@snapend 
+
+---
+@title[Managing Environment using Anaconda]
 
 @snap[north]
 ### What is **Anaconda?**
