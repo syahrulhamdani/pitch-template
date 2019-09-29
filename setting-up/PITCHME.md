@@ -44,12 +44,11 @@
 ### Command Line
 @snapend
 
-@snap[west span-45 text-05]
+@snap[west span-55 text-06]
 It's recommended to use a **Unix** command line, for windows, one of it is **Git Bash**.
 
 Anaconda provide an **anaconda prompt** that can be used too, but git bash is more convinient.
 
-For non-windows, you can use your native termial, and directly check your `python` version by typing `python --version`
 For non-windows, you can use your native termial, and directly check your `python` version by typing `python --version`
 @snapend 
 
