@@ -97,7 +97,41 @@ Ira purpura perfectaque variasque demittit viribus ponti
 
 Sic et et Ulixes corpora nos nervosus
 @snapend
+  
+---?color=black
+@title[Code with Box 1]
 
+@snap[north-west]
+#### Code with Box Widget
+@snapend
 
+@snap[west span-35] 
+@box[bg-blue](1. `cd` # Go to your `home` directory)
+@snapend
 
+@snap[east]
+@img[span-60](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfb95f_step1-cd/step1-cd.png)
+@snapend
+
++++?color=black
+@title[Code with Box 2]
+
+@snap[north-west]
+#### Code with Box Widget 2
+@snapend
+
+@snap[west text-center span-35]
+@box[bg-blue](Add Python & Anaconda to PATH in `.bashrc`)
+@snapend
+
+@snap[south-west span-35 text-07]
+Replace `[YOUR PATH]` with your PATH, say `/c/Users/Juno/Anaconda3`.
+```bash
+echo 'export PATH="$PATH:[YOUR_PATH]:[YOUR_PATH]/Scripts"' >> .bashrc
+```
+@snapend
+
+@snap[east]
+@img[span-60](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5adfba33_step3-path/step3-path.png)
+@snapend
 
