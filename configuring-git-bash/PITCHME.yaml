@@ -1,0 +1,9 @@
+theme: template
+theme-text: ["Nunito Sans", "#252525", "none"]
+theme-headline: ["Nunito Sans", "#252525", "none"]
+theme-links: ["#4285f4", "#3f3d3d"]
+
+footnote : "© Syahrul Hamdani | 2019"
+
+published: true
+
